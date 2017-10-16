@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         tapcount = tapcount + 1
         
         if tapcount >= 5 {
-            thelabel.text = "NO!"
+            thelabel.text = "NOPE!"
             
         }
         
